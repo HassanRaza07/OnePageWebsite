@@ -1,0 +1,34 @@
+.about-container{
+   display: flex;
+ padding-top: 90px;
+ padding-bottom: 90px;
+ background-color: black;
+}
+
+.about-content{
+  margin: 60px;
+   width: 50%;
+  width: 50%;
+   font-size:   21px;
+   color: white;
+   padding-left: 50px;
+   
+   
+}
+
+.about-img{
+   margin: 60px;
+   width: 50%;
+   padding-right: 50px;
+   display:flex;
+   align-items:center;
+   
+}
+
+.about-img img{
+   display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+   
+}
